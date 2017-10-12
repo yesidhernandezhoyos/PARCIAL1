@@ -1,0 +1,2 @@
+CREATE TABLESPACE RENTING_COLOMBIA DATAFILE
+'D:/app/us/virtual/oradata/orcl/renting.dbf' size 150M;
